@@ -1,7 +1,7 @@
 <!--html_preserve-->
 <span>
 <h3>
-Kamil Kosiński
+Katarzyna	Lenczewska, Ewelina	Chmura
 </h3>
 <p>
 PwC
