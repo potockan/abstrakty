@@ -1,7 +1,7 @@
 <!--html_preserve-->
 <span>
 <h3>
-Katarzyna	Lenczewska, Ewelina	Chmura
+Autor
 </h3>
 <p>
 PwC
