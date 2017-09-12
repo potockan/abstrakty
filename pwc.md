@@ -1,7 +1,7 @@
 <!--html_preserve-->
 <span>
 <h3>
-Autor
+Michał Cisek, Rafał Kobiela
 </h3>
 <p>
 PwC
