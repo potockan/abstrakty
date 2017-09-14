@@ -4,11 +4,11 @@
 Natalia Potocka
 </h3>
 <p>
-Grupa Wirtualna Polska
+
 </p>
 <br/>
 <p>
-<strong>Blog z RMarkdownem i Jekyllem</strong>
+<strong>Blog z RMarkdownem i blogdownem</strong>
 </p>
 <br/>
 <p>
